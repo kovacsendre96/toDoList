@@ -1,0 +1,12 @@
+
+
+
+
+.layout__item--centerized{
+     margin-left: auto; 
+     margin-right: auto; 
+    }
+
+.layout__item--100-percent--width{
+    width: 100%;
+}    
